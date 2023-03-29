@@ -1,0 +1,5 @@
+1. Download chrome web driver here https://chromedriver.chromium.org/downloads. Download the web driver that has the same
+ version with your chrome browser.
+2. Put the web driver in specific folder. For example, "C:\Development\chromedriver.exe"
+3. Install selenium library using pip: pip install selenium.
+4. Run the script scena.py.

@@ -1,0 +1,11 @@
+1. Download chrome web driver here https://chromedriver.chromium.org/downloads. Download the web driver that has the same
+ version with your chrome browser.
+2. Put the web driver in specific folder. For example, "C:\Development\chromedriver.exe"
+3. Install selenium library using pip: pip install selenium.
+4. Install beautifulsoup library using pip: pip install beautifulsoup4.
+5. Install pandas library using pip: pip install pandas.
+6. Install requests library using pip: pip install requests.
+7. Run the script composer_index.py to generate csv file to store links of composer. You don't have to run this script if you want because I already run it.
+8. Run the script composer_midi.py to download the midi files for each composer.
+9. Run the script all_page_alphabet.py to generate csv fil to store links of all alphabetic title. Again, You don't have to run this script if you want because I already run it.
+10. Run the script all_midi.py to download the midi files for each title.
